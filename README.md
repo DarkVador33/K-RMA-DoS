@@ -71,8 +71,11 @@ Ce qui donnera :
 ```python "K-RMA DoS.py" -s google.com -p 80 -t 140```
 
 Plus d'option : 
+
         -s : The server IP / IP Cible
+        
         -p : The port (default 80) / Le port (80 par défault)
+        
         -t : The turbo (default 135) / Le turbo (135 par défault)
 
 # ATTENTION, JE NE SUIS PAS RESPONSABLE DE VOS ACTES ! CE SCRIPT EST À BUT EDUCATIF ! IL NE DOIT EN AUCUN CAS SERVIR À DES FINS MALVEILLANTES !
