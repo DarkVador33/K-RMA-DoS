@@ -2,7 +2,7 @@
 
 Développé dans nos atteliers, le K-RMA DoS est très simple à utiliser !
 
-Voici donc un petit tutoriel : 
+Voici donc un petit tutoriel très détaillé pour les moins doués en informatique d'entre vous : 
 
 ## 1. Le télécharger
 
