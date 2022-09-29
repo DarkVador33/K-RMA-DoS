@@ -63,7 +63,7 @@ Vous y écrivez :
 Ceci lancera une attaque DoS sur l'ip en question !
 
 ### ASTUCE : 
-pour attaquer un site, copier son url, enlevez le https:// afin de ne garder que le nom de domaine ! Celui-ci est l'ip publique du site et peut être utilisée comme ip cible de l'attaque, exemple : 
+pour attaquer un site, copiez son url, enlevez le https:// afin de ne garder que le nom de domaine ! Celui-ci est l'ip publique du site et peut être utilisée comme ip cible de l'attaque, exemple : 
 
 ```https://google.com > google.com```
 
